@@ -1,0 +1,26 @@
+核心材料（以下全部按照一个板子的耗材标注）
+
+Arduino nano				*1
+WS2815灯珠		          		*15
+
+
+
+外壳制作材料（参考Design文件夹）
+4mm 单侧导光板（贴膜）       			*1
+1mm 扩散板				*1
+2mm 激光切割椴木板-奇光板			*1
+2mm 激光切割椴木板-主控			*1
+
+注意：椴木板实际有误差，最好用实际厚度1.70-1.75的板子
+
+
+PCB板（参考Circuit文件夹）
+
+LED集成板-AST_TRIANGEL.PcbDoc		*3
+奇光板主控-AST_MAINBOARD.PcbDoc		*3
+主控制器-AST_CONTROLLER.PcbDoc		*1(不管做几个奇光板，只需要一个)
+连接器-AST_SmartLink.PcbDoc		*1
+
+
+
+
